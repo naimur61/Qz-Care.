@@ -1,0 +1,10 @@
+.header-div-bg {
+	background-image: url(kenny-eliason-KYxXMTpTzek-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 5px;
+}
+.header-div{
+	background-color: rgba(0, 0, 0, 0.365);
+	border-radius: 5px;
+}

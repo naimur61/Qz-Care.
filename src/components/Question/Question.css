@@ -1,0 +1,8 @@
+body {
+	counter-reset: Serial;
+}
+.counter:first-child:before {
+	counter-increment: Serial;
+	content: counter(Serial);
+}
+

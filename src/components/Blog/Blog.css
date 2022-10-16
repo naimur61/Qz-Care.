@@ -1,0 +1,9 @@
+.bg {
+	background-image: url(olav-ahrens-rotne-jvBXiynINGE-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.q-div {
+	background-color: rgba(0, 0, 0, 0.286);
+	border-radius: 5px;
+}

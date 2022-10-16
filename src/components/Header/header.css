@@ -1,0 +1,10 @@
+.active {
+	background-color: #06b6d4;
+	color: white;
+	border-radius: 5px;
+	padding: 2px 7px;
+}
+.weight {
+	width: 100px;
+	height: 130px;
+}
